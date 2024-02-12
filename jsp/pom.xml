@@ -33,6 +33,7 @@
 ~ STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ~ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 ~ OF THE POSSIBILITY OF SUCH DAMAGE.
+~ TEST COMMIT FOR INNOVATION
 -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -42,7 +43,7 @@
     <parent>
         <groupId>org.owasp.encoder</groupId>
         <artifactId>encoder-parent</artifactId>
-        <version>1.2.2</version>
+        <version>1.2.4</version>
     </parent>
 
     <artifactId>encoder-jsp</artifactId>
