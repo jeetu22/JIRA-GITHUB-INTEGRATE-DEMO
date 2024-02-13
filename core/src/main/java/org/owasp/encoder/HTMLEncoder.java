@@ -61,7 +61,8 @@ class HTMLEncoder extends Encoder {
     /**
      * Encoding for '\t'.
      */
-    private static final char[] TAB = "&#9;".toCharArray();
+    //updated to default
+     static final char[] TAB = "&#9;".toCharArray();
     /**
      * Encoding for '&amp;'.
      */
