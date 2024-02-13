@@ -55,7 +55,8 @@ class CDATAEncoder extends Encoder {
     /**
      * The encoding of @{code "]]>"}.
      */
-    private static final char[] CDATA_END_ENCODED
+    //updated to default
+     static final char[] CDATA_END_ENCODED
             = "]]]]><![CDATA[>".toCharArray();
 
     /**
