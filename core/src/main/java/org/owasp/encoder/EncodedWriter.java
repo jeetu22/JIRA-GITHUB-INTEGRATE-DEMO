@@ -48,7 +48,7 @@ public class EncodedWriter extends Writer {
     /**
      * Buffer size to allocate.
      *
-     */
+     Trying to get merge conflict on this line*/
     static final int BUFFER_SIZE = 1024;
     /**
      * Buffer to use for handling characters remaining in the input buffer after an encode. The value is set high enough to handle
