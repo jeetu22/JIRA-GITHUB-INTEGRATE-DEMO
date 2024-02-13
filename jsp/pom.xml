@@ -45,7 +45,7 @@ second commit for innovation
     <parent>
         <groupId>org.owasp.encoder</groupId>
         <artifactId>encoder-parent</artifactId>
-        <version>1.2.2</version>
+        <version>1.2.3</version>
     </parent>
 
     <artifactId>encoder-jsp</artifactId>
