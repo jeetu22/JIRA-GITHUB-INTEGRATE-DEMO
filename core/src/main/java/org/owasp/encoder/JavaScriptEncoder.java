@@ -48,7 +48,6 @@ class JavaScriptEncoder extends Encoder {
      */
 //This is second commit for Multi repo
 //This is second commit for Multi repo
-    //Trying to get merge conflict
     enum Mode {
         /**
          * Standard encoding of JavaScript Strings. Escape sequences are chosen
