@@ -46,6 +46,8 @@ class JavaScriptEncoder extends Encoder {
     /**
      * Mode of operation constants for the JavaScriptEncoder.
      */
+//This is second commit for Multi repo
+//This is second commit for Multi repo
     enum Mode {
         /**
          * Standard encoding of JavaScript Strings. Escape sequences are chosen
