@@ -46,6 +46,7 @@ class JavaScriptEncoder extends Encoder {
     /**
      * Mode of operation constants for the JavaScriptEncoder.
      */
+    //Trying to get merge conflict
     enum Mode {
         /**
          * Standard encoding of JavaScript Strings. Escape sequences are chosen
